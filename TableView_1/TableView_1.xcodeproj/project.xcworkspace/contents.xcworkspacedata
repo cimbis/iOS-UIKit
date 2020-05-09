@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/jc/DEV/__SWIFT/Paul_Hudson/Project1/TableView_1.xcodeproj">
+      location = "self:TableView_1.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Project1
+//  TableView_1
 //
-//  Created by Janis Cimbulis on 08/04/2020.
+//  Created by Janis Cimbulis on 09/05/2020.
 //  Copyright © 2020 Janis Cimbulis. All rights reserved.
 //
 
