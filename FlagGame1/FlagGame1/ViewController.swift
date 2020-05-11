@@ -20,11 +20,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        countries += ["estonia", "france", "germany", "ireland", "italy",
-                      "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
 
+        self.initializeCountries()
         self.setFlagPreferences()
         self.askQuestion()
+    }
+
+    func initializeCountries() {
+        self.countries += ["estonia", "france", "germany", "ireland", "italy",
+                           "monaco", "nigeria", "poland", "russia", "spain", "uk", "us"]
+
     }
 
     func setFlagPreferences() {
@@ -47,6 +52,7 @@ class ViewController: UIViewController {
         self.button2.setImage(UIImage(named: countries[1]), for: .normal)
         self.button3.setImage(UIImage(named: countries[2]), for: .normal)
 
+        // title is something that comes out of the box for view ctrl 0_o
         title = countries[self.correctAnswer].uppercased()
     }
 
@@ -69,7 +75,7 @@ class ViewController: UIViewController {
         )
 
         alertCtrl.addAction(UIAlertAction(
-                title: "Continue", 
+                title: "Continue",
                 style: .default,
                 handler: self.askQuestion)
         )
