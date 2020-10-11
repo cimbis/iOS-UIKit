@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4333388-6ee9-4b4f-984a-547aceeb4419" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1.xcodeproj/project.xcworkspace/xcuserdata/jc.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1.xcodeproj/xcuserdata/jc.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/estonia.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/estonia.imageset/estonia@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/estonia.imageset/estonia@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/france.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/france.imageset/france@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/france.imageset/france@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/germany.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/germany.imageset/germany@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/germany.imageset/germany@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/ireland.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/ireland.imageset/ireland@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/ireland.imageset/ireland@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/italy.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/italy.imageset/italy@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/italy.imageset/italy@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/monaco.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/monaco.imageset/monaco@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/monaco.imageset/monaco@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/nigeria.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/nigeria.imageset/nigeria@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/nigeria.imageset/nigeria@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/poland.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/poland.imageset/poland@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/poland.imageset/poland@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/russia.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/russia.imageset/russia@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/russia.imageset/russia@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/spain.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/spain.imageset/spain@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/spain.imageset/spain@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/uk.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/uk.imageset/uk@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/uk.imageset/uk@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/us.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/us.imageset/us@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Assets.xcassets/us.imageset/us@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlagGame1/FlagGame1/ViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1.xcodeproj/project.xcworkspace/xcuserdata/jc.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1.xcodeproj/xcuserdata/jc.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0033.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0034.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0046.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0049.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0051.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Content/nssl0091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/DetailViewController.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TableView_1/TableView_1/ViewController.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_00008030-001A48D01E32802E" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1i9QRJ7kavQDMUUfUzf2D9lOmsJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TableView_1.xcodeproj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TableView_1" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TableView_1" TARGET_NAME="TableView_1" CONFIG_NAME="Debug" SCHEME_NAME="TableView_1" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="TableView_1" RUN_TARGET_NAME="TableView_1" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4333388-6ee9-4b4f-984a-547aceeb4419" name="Default Changelist" comment="" />
+      <created>1601317317620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601317317620</updated>
+      <workItem from="1601317318666" duration="220000" />
+      <workItem from="1601317875380" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1601317338533">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1601317338533" />
+  </component>
+</project>
