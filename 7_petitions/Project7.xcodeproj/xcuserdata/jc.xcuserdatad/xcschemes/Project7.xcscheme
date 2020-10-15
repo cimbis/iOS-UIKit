@@ -7,10 +7,10 @@
             buildForRunning = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "49BD5198253770F7003C74EC"
-               BuildableName = "7_petitions.app"
-               BlueprintName = "7_petitions"
-               ReferencedContainer = "container:7_petitions.xcodeproj">
+               BlueprintIdentifier = "51903F291D61DEA70067473C"
+               BuildableName = "Project7.app"
+               BlueprintName = "Project7"
+               ReferencedContainer = "container:Project7.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -22,10 +22,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "49BD5198253770F7003C74EC"
-            BuildableName = "7_petitions.app"
-            BlueprintName = "7_petitions"
-            ReferencedContainer = "container:7_petitions.xcodeproj">
+            BlueprintIdentifier = "51903F291D61DEA70067473C"
+            BuildableName = "Project7.app"
+            BlueprintName = "Project7"
+            ReferencedContainer = "container:Project7.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
